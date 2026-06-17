@@ -29,9 +29,9 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ==================== ثوابت البوت ====================
-BOT_TOKEN = "8931707338:AAHDZ9eHbBXnYzynzt8KuCYlAKq0Uxivz4w"
-ADMIN_IDS = [8312300160]
-SUPPORT_USER = "@abodnft"
+BOT_TOKEN = "8633990136:AAG-qSfAfFshk1yK_r-V6uNUIPJ4l6LKaIY"
+ADMIN_IDS = [884089770]
+SUPPORT_USER = "@SSOLTAAANNN"
 
 # إعدادات الأداء
 MAX_WORKERS = 50
